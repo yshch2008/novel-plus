@@ -19,6 +19,7 @@
         <dependency>
             <groupId>com.java2nb</groupId>
             <artifactId>novel-common</artifactId>
+            <scope>system</scope>
             <systemPath>${project.build.directory}/novel-common.2.0.0.jar</systemPath>
         </dependency>
 
